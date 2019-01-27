@@ -109,18 +109,30 @@ a {
 .regular-txt{
   font-size: 17px;
 }
+.bigger-txt{
+  font-size: 20px;
+  padding-top: 50px;
+}
+
 .con-details{
-  border: 2px solid #F2F4F4;
+  border: 2px solid #a94442;
 }
 
 #presonal-photo{
-  width:140px;
-  float:right;
+  width:250px;
+  float: left;
+}
+.my-hobbies{
+  height:248px;
+}
+.well-prop{
+  background-color: #eee;
 }
 .sub-headers{
   color: gray;
   font-size: 30px;
   font-weight: bold;
+  padding-bottom: 15px;
 }
 .sec-body{
   padding-left: 20px;
@@ -132,3 +144,16 @@ a {
   font-weight: bold;
   color: gray;
 }
+
+.go-to{
+  display:flex;
+  flex-direction:row;
+  justify-content: flex-end;
+  color:black;
+  font-size: 13px;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: black;
+  }
