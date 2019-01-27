@@ -107,7 +107,8 @@ a {
 
 }*/
 .regular-txt{
-  font-size: 17px;
+  font-size: 19px;
+  font-family: New Roman;
 }
 .bigger-txt{
   font-size: 20px;
@@ -116,6 +117,7 @@ a {
 
 .con-details{
   border: 2px solid #a94442;
+
 }
 
 #presonal-photo{
@@ -123,7 +125,7 @@ a {
   float: left;
 }
 .my-hobbies{
-  height:248px;
+  height:263px;
 }
 .well-prop{
   background-color: #eee;
@@ -152,6 +154,50 @@ a {
   color:black;
   font-size: 13px;
 }
+/*****------ ```````````Projects' page classes````````````**/
+.proj-header{
+/*  height:100px;
+  width: 100%;*/
+  background-color: #a94442;
+}
+
+.cake-photo{
+  float:left;
+  width: 300px;
+  margin-left:40px;
+  margin-top:30px;
+}
+.cake-sub-header{
+  font-size: 30px;
+  font-weight: bold;
+  color: #0B4278;
+  padding-top: 20px;
+  font-family: New Roman;
+
+}
+
+.proj-body{
+  background-color: #F9F3EF;
+  height:100%;
+}
+
+hr{
+  height: 1px;
+  color: #a94442;
+  background-color: #a94442;
+  border: none;
+}
+
+.jumbo-details{
+  background-color: #a94442;
+}
+#projects-txt{
+  font-size: 80px;
+  font-weight: bold;
+  color: white;
+
+}
+
 
 @media screen and (max-width: 480px) {
   body {
