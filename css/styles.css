@@ -7,30 +7,13 @@
   width: auto;
   background-color:white;
 }
-/*.sec-box{
-  display:flex;
 
-  height: 618px;
-  width: auto1000px;
-  background-color:#F1E4E1;
-  justify-content: center;
-
-}**/
-
-
-/**  .bg{
-    color:#851B02;
-    font-size: 70px;
-    font-weight: bold;
-    margin: auto;
-  }**/
 
 .third-box{
   display:flex;
   flex-direction: column ;
-  height:auto;
+  height:680px;
   background-color:#FAE5D3;
-
 }
 
 
@@ -60,6 +43,12 @@ a {
   border-right:580px solid transparent;
   border-top:680px solid white;
  }
+
+.animation{
+  margin-top: -30%;
+  margin-left: 65%;
+  background-color: transparent;
+}
 
 .portf-text{
   margin-top: -400px;
@@ -194,10 +183,14 @@ hr{
 #projects-txt{
   font-size: 80px;
   font-weight: bold;
-  color: white;
 
+  color: white;
 }
 
+.row-props{
+  display:flex;
+  align-items: center;;
+}
 
 @media screen and (max-width: 480px) {
   body {
