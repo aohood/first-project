@@ -1,9 +1,13 @@
 # _PORTFOLIO_
-
+### made by: Aya Abusultan
 
 ##### This project is an interface for my portfolio with some few active links
 
 ![An image of a portfolio icon](https://imageog.flaticon.com/icons/png/512/45/45696.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
+
+[Click here](https://github.com/aohood/first-projec) to check out my project's repo. on GitHub pages
+
+#### OR
 
 [Click here](https://github.com/aohood/first-projec) to check out my project's repo.
 
